@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194368084439",
+    "project_id": "yugiohproject-9ee6f",
+    "storage_bucket": "yugiohproject-9ee6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194368084439:android:824f024ff6474f63c1d392",
+        "android_client_info": {
+          "package_name": "com.example.yugiohproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h0uCGDoMg0rZRTnAbdi0AO440KIAitQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
